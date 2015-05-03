@@ -277,10 +277,12 @@ nav ul li:hover, nav ul li.active {
   -moz-column-rule:    1px outset rgba(255,255,255,0.5);
   column-rule:         1px outset rgba(255,255,255,0.5);
   
-  width: 500px;
+  width: 545px;
+  
+  /*font-weight: bold;*/
 }
 
-.longlist { font-size: 14px !important; }
+/*.longlist { font-size: 14px !important; }*/
 .longlist li { margin-bottom: 3px; }
 
 
