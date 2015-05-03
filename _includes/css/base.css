@@ -102,7 +102,7 @@
 	ul, ol { margin-bottom: 10px; }
 	ul { list-style: square outside;}
 	ol { list-style: decimal; }
-	ul, ul.square { list-style: square outside; }
+	ul, ul.square { list-style: square inside; }
 	ul ul, ul.circle { list-style: circle outside; }
 	ul ul ul, ul.disc { list-style: disc outside; }
 	ul ul li, ul ol li,
