@@ -273,9 +273,9 @@ nav ul li:hover, nav ul li.active {
   -moz-column-gap:    40px;
   column-gap:         40px;
 
-  -webkit-column-rule: 1px outset rgba(255,255,255,0.5);
-  -moz-column-rule:    1px outset rgba(255,255,255,0.5);
-  column-rule:         1px outset rgba(255,255,255,0.5);
+  -webkit-column-rule: 0px outset rgba(255,255,255,0.5);
+  -moz-column-rule:    0px outset rgba(255,255,255,0.5);
+  column-rule:         0px outset rgba(255,255,255,0.5);
   
   width: 545px;
   
