@@ -7,7 +7,7 @@ fa-icon: graduation-cap
 # Education
 
 * University of the West of England (2011-2014)
-  * BSc (Hons) Games Technlogy (First Class Honours)
+  * BSc (Hons) Games Technology (First Class Honours)
 * MITx through edX (2012-2013)
   * 6.00x: Introduction to Computer Science and Programming (A)
 * Eastbourne College/Sussex Downs College (2006-2011)

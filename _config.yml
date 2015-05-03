@@ -28,7 +28,7 @@ description: "Anthony Lee's portfolio site."
 source_link: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: UA-62547358-1
+google_analytics_key: #UA-62547358-1
 
 
 ### template colors, used site-wide via css ###
