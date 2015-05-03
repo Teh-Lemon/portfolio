@@ -240,7 +240,7 @@ nav ul li:hover, nav ul li.active {
   text-align:center;
   display:block;
   z-index:6;
-  width:240px;
+width:240px;
   display:none;
 }
 
@@ -277,9 +277,21 @@ nav ul li:hover, nav ul li.active {
   -moz-column-rule:    0px outset rgba(255,255,255,0.5);
   column-rule:         0px outset rgba(255,255,255,0.5);
   
-  width: 545px;
+  width: 600px;
   
   /*font-weight: bold;*/
+}
+
+@media (orientation:portrait) and (max-width:767px)
+{
+	.columned2  
+	{   
+	-webkit-column-count: 1;
+	-moz-column-count:    1;
+	column-count:         1;
+	
+	width: auto;
+	}
 }
 
 /*.longlist { font-size: 14px !important; }*/
