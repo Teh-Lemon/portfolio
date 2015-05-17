@@ -19,4 +19,4 @@ Interests:
 My favourite games are:
 
 * Team Fortress 2
-* Osu!
+* osu!
