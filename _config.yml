@@ -7,18 +7,19 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+#permalink: / ## disables post output
+permalink : /:year
 timezone: null
 safe: true
 lsi: false
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   auto_ids: false
   
 github:
-  repository_url: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
+  repository_url: "https://github.com/Teh-Lemon/portfolio"
 
 
 ### content configuration ###
