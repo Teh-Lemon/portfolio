@@ -8,7 +8,7 @@ fa-icon: thumbs-up
 
 Work Experience:
 
-* Takeaway Assistant, Lee's Garden (2006-2015)
+* Takeaway Assistant, Lee's Garden (2014-2016)
   * Direct communication with the public via phone and face-to-face to take customer orders and answer inquiries.
  
 Interests:
@@ -16,7 +16,4 @@ Interests:
 * AudioVisual feedback in games
 * Virtual Reality
 
-My favourite games are:
-
-* Team Fortress 2
-* osu!
+My favourite game is Team Fortress 2.
